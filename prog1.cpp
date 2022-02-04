@@ -9,4 +9,5 @@ cin>>a>>b;
 c=a+b;
 cout<<"sum = "<<c;
 cout<<"feature1 is added";
+cout<<"fearure2 is added by user 2"
 }
